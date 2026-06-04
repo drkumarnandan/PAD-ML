@@ -1,0 +1,16 @@
+feature,importance
+mean_COM,0.2590519463564155
+interchain_residue_pair_contacts,0.13118778518928192
+hotspot_any_contact_pairs,0.10972298066312018
+interface_residue_count,0.10755811809932918
+hotspot_hotspot_contact_pairs,0.09164233900225645
+mean_HB,0.06961035758587862
+mean_CP,0.05480044178145553
+Rg_nm,0.03756186269226929
+hotspot_sasa_nm2,0.026789513833843613
+Hydrophobic_SASA_nm2,0.025694649690094853
+water_ethanol_ratio,0.02498747111003408
+ethanol_hotspot_count,0.02255821186028383
+Total_SASA_nm2,0.018808258232243497
+water_hotspot_count,0.016381649546106224
+salt_bridge_count,0.0036444143573871124
