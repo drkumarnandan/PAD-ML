@@ -1,0 +1,16 @@
+feature,coefficient
+mean_COM,-1.250272795973542
+hotspot_any_contact_pairs,0.8734551716012758
+hotspot_hotspot_contact_pairs,0.6572446475814611
+water_hotspot_count,0.6315088740243261
+water_ethanol_ratio,0.6227957102588573
+interface_residue_count,0.4108007912720007
+Hydrophobic_SASA_nm2,0.35517470446693244
+interchain_residue_pair_contacts,0.31316840296080883
+hotspot_sasa_nm2,0.3010724704481209
+Total_SASA_nm2,0.2802350178896483
+Rg_nm,-0.2612702996962668
+ethanol_hotspot_count,-0.24568002283404666
+mean_CP,0.18602341767103395
+mean_HB,0.09876880595265942
+salt_bridge_count,0.0705801031994379
